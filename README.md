@@ -4,9 +4,9 @@ Specifically, I focused on the NCAA and its winners of the NCAA Tournament MVP a
 I tried to analyze the change of the trend of the winners along with their stats to figure out the reason.
 
 
-##Basic Information
+## Basic Information
 This project is self-driven and was not done with any professional intervention.
-All of the data was obtained through [SRCBB] (https://www.sports-reference.com/cbb/) by searching up the respective names of the players.
+All of the data was obtained through [SRCBB](https://www.sports-reference.com/cbb/) by searching up the respective names of the players.
 All data was first gathered through Google Sheets manually and then went through an initial phase of cleaning.
 After this, the data was downloaded onto Jupyter Notebook which went through another layer of data cleaning and data preparation.
 When the data was finally deemed ready, I used it to analyze and then create visualizations.
