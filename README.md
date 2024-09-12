@@ -12,3 +12,6 @@ After this, the data was downloaded onto Jupyter Notebook which went through ano
 When the data was finally deemed ready, I used it to analyze and then create visualizations.
 I also used Tableau at the end to finally create a Dashboard for an easier viewing of the results.
 
+
+### To see the Plots not showing up on the Github, please click on the link below
+http://localhost:8889/notebooks/Downloads/NCAA_Position_Trend.ipynb?
