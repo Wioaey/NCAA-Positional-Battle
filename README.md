@@ -15,3 +15,6 @@ I also used Tableau at the end to finally create a Dashboard for an easier viewi
 
 ### To see the Plots not showing up on the Github, please click on the link below
 http://localhost:8889/notebooks/Downloads/NCAA_Position_Trend.ipynb?
+
+### This is the [link] (https://docs.google.com/spreadsheets/d/1YTMi-U80Gd2t7JsGxEmCcHfc9GEZ7HAgo-3jOfrpREM/edit?usp=sharing) to Google sheets pertaining the raw data first gathered.
+
