@@ -24,6 +24,11 @@ All data was first gathered through Google Sheets manually and then went through
 After this, the data was downloaded onto Jupyter Notebook which went through another layer of data cleaning and data preparation.
 When the data was finally deemed ready, it was used to analyze and then create visualizations.
 
+## About Data 
+[NCAA Data Dictionary - NCAA_EDR.pdf](https://github.com/user-attachments/files/17070597/NCAA.Data.Dictionary.-.NCAA_EDR.pdf)
+
+![image](https://github.com/user-attachments/assets/a5d69a3a-626a-4040-8d96-1efcfed8b1d1)
+
 
 
 ### To see the Plots not showing up on the Github, please click on the link below
