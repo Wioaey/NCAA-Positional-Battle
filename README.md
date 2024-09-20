@@ -7,7 +7,7 @@ This leads to the question; did Guards become better and more popular than the p
 Specifically, has it been evident in the NCAA and its winners of the NCAA Tournament MVP and the Season MVP from 1975?
 
 The NCAA contains most of the players that enter the NBA and is often the first place where the trend begins to appear.
-This project thoroughly analyzes and synthesizes this data in order to uncover whether or not the trend's accuracy
+This project thoroughly analyzes and synthesizes this data to determine the trend's accuracy
 
 Insights and recommendations are provided on the following key areas:
 - **Efficiency of Scoring**: Evaluation of the efficiency of scoring in all areas for all positions.
