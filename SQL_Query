@@ -1,0 +1,22 @@
+SELECT 
+    Players, 
+    Season, 
+    Position, 
+    Age, 
+    Height_in_Inches, 
+    _3P, 
+    FT, 
+    FG, 
+    STL, 
+    TRB, 
+    PTS, 
+    AST,
+	BLK,
+    ((STL - MIN(STL) OVER ()) / (MAX(STL) OVER () - MIN(STL) OVER ())) * 6 AS Norm_STL,
+	((TRB - MIN(TRB) OVER ()) / (MAX(TRB) OVER () - MIN(TRB) OVER ())) * 6 AS Norm_TRB,
+	((PTS - MIN(PTS) OVER ()) / (MAX(PTS) OVER () - MIN(PTS) OVER ())) * 6 AS Norm_PTS,
+	((AST - MIN(AST) OVER ()) / (MAX(AST) OVER () - MIN(AST) OVER ())) * 6 AS Norm_AST,
+	((BLK - MIN(BLK) OVER ()) / (MAX(BLK) OVER () - MIN(BLK) OVER ())) * 6 AS Norm_BLK
+FROM 
+    NCAA_finalized;
+
